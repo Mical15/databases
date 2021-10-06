@@ -1,0 +1,23 @@
+{
+  "name": "rpt27-databases",
+  "version": "1.0.0",
+  "main": "/server/app.js",
+  "dependencies": {
+    "mysql": "^2.18.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mical15/rpt27-databases.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mical15/rpt27-databases/issues"
+  },
+  "homepage": "https://github.com/Mical15/rpt27-databases#readme",
+  "description": ""
+}
